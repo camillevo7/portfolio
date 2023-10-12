@@ -1,14 +1,14 @@
 # Data Science and Analytics, Management
 
 Skills
--Python 
--Analytics and Statistics
--Excel and Googlesheets 
--Tableau and PowerBI
--SQL 
--Marketing and Business Mgt
--Data Wrangling and Cleaning 
--Wordpress
+* Python 
+* Analytics and Statistics
+* Excel and Googlesheets 
+* Tableau and PowerBI
+* SQL 
+* Marketing and Business Mgt
+* Data Wrangling and Cleaning 
+* Wordpress
 
 
 Work Experience
