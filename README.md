@@ -1,6 +1,6 @@
 # Data Science and Analytics, Management
 
-##Skills##
+**Skills**
 * Python 
 * Analytics and Statistics
 * Excel and Googlesheets 
@@ -11,11 +11,11 @@
 * Wordpress
 
 
-##Work Experience##
+**Work Experience**
 
-###Project Management and Data Analyst
+***Project Management and Data Analyst***
 
-**Accenture**
+***Accenture***
 
 2015-1016
 
